@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\bin\Debug\netcoreapp3.1\HomeworkRelectionLesson.exe
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\bin\Debug\netcoreapp3.1\HomeworkRelectionLesson.deps.json
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\bin\Debug\netcoreapp3.1\HomeworkRelectionLesson.runtimeconfig.json
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\bin\Debug\netcoreapp3.1\HomeworkRelectionLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\bin\Debug\netcoreapp3.1\HomeworkRelectionLesson.dll
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\bin\Debug\netcoreapp3.1\HomeworkRelectionLesson.pdb
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.dll
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.pdb
+G:\Проекты\HomeworkRelectionLesson\HomeworkRelectionLesson\obj\Debug\netcoreapp3.1\HomeworkRelectionLesson.genruntimeconfig.cache
